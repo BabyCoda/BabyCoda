@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BabyCoda
+- 👋 Hi, I’m Shenae
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on open source projects
